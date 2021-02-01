@@ -1,0 +1,35 @@
+[sidebarPages]
+    other = "Menu"
+
+[sidebarTags]
+    other = "Tagi"
+
+[sidebarLinks]
+    other = "Linki"
+
+[footerPoweredFront]
+    other = "Silnik "
+
+[postMetaNoTag]
+    other = "Brak tagów"
+
+[postMetaWordCount]
+    one = "{{.Count}} słowo"
+    two = "{{.Count}} słowa"
+    three = "{{.Count}} słowa"
+    four = "{{.Count}} słowa"
+    other = "{{.Count}} słów"
+
+
+[postMetaReadingTime]
+    one = "{{.Count}} minuta"
+    two = "{{.Count}} minuty"
+    three = "{{.Count}} minuty"
+    four = "{{.Count}} minuty"
+    other = "{{.Count}} minut"
+
+[archivesTotalPages]
+    other = "Postów w sumie: "
+
+[tagsCurrentTag]
+    other = "Postów z tagiem {{ .Title }}: "

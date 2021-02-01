@@ -1,0 +1,57 @@
+baseURL = "https://blog.riddleb.it/"
+title = "Too long; didn't read"
+description = "Za długie; nie przeczytałem"
+subTitle = "Za długie; nie przeczytałem"
+theme = "fuji"
+
+summaryLength = 100 # Custom summary length, add <!--more--> in post file to custom split point
+paginate = 50
+
+## Change this two to switch between different language
+languageCode = "pl"
+defaultContentLanguage = "pl"  # For HTML page, now support: en, zh-hans, zh-hant, ja, nl
+
+
+[author]
+  name = "Krzysztof Gzocha"
+  homepage = "https://riddleb.it"
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+
+[params]
+  author = "Krzysiek Gzocha"
+  subTitle = "Za długie; nie przeczytałem"
+  sourceURL = "https://github.com/krzysztof-gzocha/tldr"
+  description = "Za długie; nie przeczytałem"
+
+  showWordCounter = true
+  showReadTime = true
+
+  showLicense = false
+  showToc = false
+  showComments = false
+
+[menu]
+  [[menu.nav]]
+    name = "Główna"
+    url = "/"
+    weight = 1
+ # [[menu.nav]]
+ #   name = "Search"
+ #   url = "/search/"
+ #   weight = 4
+  [[menu.nav]]
+    name = "RSS"
+    url = "/index.xml"
+    weight = 5
+
+  [[menu.link]]
+    name = "GitHub"
+    url = "https://github.com/krzysztof-gzocha"
+    weight = 1
+  [[menu.link]]
+    name = "Twitter"
+    url = "https://twitter.com/kgzocha"
+    weight = 2
