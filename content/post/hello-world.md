@@ -2,7 +2,7 @@
 title: "Blog jako \"zrzut\" myśli"
 slug: "zrzut-mysli"
 date: 2021-02-01T12:01:43+01:00
-draft: true
+draft: false
 links: ["https://www.youtube.com/watch?v=bfDOoADCfkg"]
 ---
 
