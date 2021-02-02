@@ -19,6 +19,10 @@ defaultContentLanguage = "pl"  # For HTML page, now support: en, zh-hans, zh-han
 [outputs]
   home = ["HTML", "RSS"]
 
+[privacy]
+  [privacy.youtube]
+    disable = false
+    privacyEnhanced = true
 
 [params]
   author = "Krzysiek Gzocha"

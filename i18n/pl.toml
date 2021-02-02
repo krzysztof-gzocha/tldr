@@ -19,6 +19,7 @@
     three = "{{.Count}} słowa"
     four = "{{.Count}} słowa"
     other = "{{.Count}} słów"
+    many = "{{.Count}} słów"
 
 
 [postMetaReadingTime]
@@ -32,4 +33,4 @@
     other = "Postów w sumie: "
 
 [tagsCurrentTag]
-    other = "Postów z tagiem {{ .Title }}: "
+    other = "Posty z tagiem {{ .Title }}: "
