@@ -8,7 +8,7 @@ tags: [religia, teodycea]
 Są to rozmyślenia mające odpowiedzieć nie na pytanie czy sam Bóg istnieje, lecz raczej czy w świecie pełnym zła może istnieć Bóg wszechpotężny, wszechwiedzący a zarazem pełen dobra?<!--more-->
 
 [Laktancjusz](https://pl.wikipedia.org/wiki/Laktancjusz) (250 - 325 n.e.) przypisuje ten problem [Epikurowi](https://pl.wikipedia.org/wiki/Epikur) w swoim dziele "O gniewie Bożym" ("De Ira Dei").
-[David Hume](https://en.wikipedia.org/wiki/David_Hume) w swoim dziele "Dialogues concerning Natural Religion" (1779) również odnosi się do Epikura jako do twórcy tego problemu oraz dodaje, że dalej nie ma niego odpowiedzi.
+[David Hume](https://en.wikipedia.org/wiki/David_Hume) w swoim dziele "Dialogues concerning Natural Religion" (1779) również odnosi się do Epikura jako do twórcy tego problemu oraz dodaje, że dalej nie ma na niego odpowiedzi.
 Problem ten można nazwać "problemem zła" i zajmuje się nim [teodycea](https://pl.wikipedia.org/wiki/Teodycea), czyli cała gałąź teologii skupiająca się na tym.
 
 ## Schemat
@@ -64,12 +64,14 @@ Według kościoła odpowiedzią na problem zła jest umożliwienie samo-doskonal
 - Cierpienie jest konieczną konsekwencją grzechu.
 
 ## Jak biblia tłumaczy cierpienie?
-Profesor Uniwersytetu Korliny Północnej w Chapel Hill na wydziale Religioznawstwa, krytyk tekstu Nowego Testamentu, agnostyk oraz twórca książek tłumaczonych na 27 języków - [Bart D. Ehrman](https://pl.wikipedia.org/wiki/Bart_D._Ehrman) - dał na ten temat wiele wykładów. Oto jeden z nich:
+Profesor Uniwersytetu Karoliny Północnej w Chapel Hill na wydziale Religioznawstwa, krytyk tekstu Nowego Testamentu, agnostyk oraz twórca książek tłumaczonych na 27 języków - [Bart D. Ehrman](https://pl.wikipedia.org/wiki/Bart_D._Ehrman) - dał na ten temat wiele wykładów. Oto jeden z nich:
 {{< youtube "bz-MQgzxua8?start=305" >}}
 Można włączyć napisy oraz w ustawieniach wybrać automatyczne tłumaczenie na język polski. Nie jest idealne, ale wystarczy, żeby zrozumieć.
 
-## Czy problem jest finalnie rozwiązany?
-Absolutnie nie, każdy musi sam sobie na niego odpowiedzieć, natomiast uważam, że poznanie rozumowania innych ludzi na ten temat może znacząco pomóc. Żadna z prezentowanych wyżej odpowiedzi jest idealna i do każdej można mieć swoje uwagi.
+## Czy zatem problem jest finalnie rozwiązany?
+Absolutnie nie, każdy musi sam sobie na niego odpowiedzieć, natomiast uważam, że poznanie rozumowania innych ludzi na ten temat może znacząco pomóc. Żadna z prezentowanych wyżej odpowiedzi nie jest idealna i do każdej można mieć swoje uwagi.
+
+Żadna nie dostarcza odpowiedzi na pytanie dlaczego istnieje zło w postaci tsunami, malarii, chorób genetycznych i innych niezależnych od człowieka rzeczy. Dlatego problem ten jest często przytaczany przez ateistów, ponieważ gdy nie ma Boga w ogóle to ten problem nie istnieje.
 
 ### Linki
 1. Kilka wyśmienitych odpowiedzi można znaleźć w tym wątku https://www.quora.com/Can-anyone-debunk-the-Epicurean-Paradox
