@@ -20,6 +20,7 @@
     four = "{{.Count}} słowa"
     other = "{{.Count}} słów"
     many = "{{.Count}} słów"
+    few = "{{.Count}} słów"
 
 
 [postMetaReadingTime]
@@ -28,6 +29,7 @@
     three = "{{.Count}} minuty"
     four = "{{.Count}} minuty"
     other = "{{.Count}} minut"
+    many = "{{.Count}} minut"
 
 [archivesTotalPages]
     other = "Postów w sumie: "
