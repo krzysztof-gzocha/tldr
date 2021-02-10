@@ -7,8 +7,8 @@ tags: [religia, teodycea]
 
 Są to rozmyślenia mające odpowiedzieć nie na pytanie czy sam Bóg istnieje, lecz raczej czy w świecie pełnym zła może istnieć Bóg wszechpotężny, wszechwiedzący a zarazem pełen dobra?<!--more-->
 
-[Laktancjusz](https://pl.wikipedia.org/wiki/Laktancjusz) (250 - 325 n.e.) przypisuje ten problem [Epikurowi](https://pl.wikipedia.org/wiki/Epikur) w swoim dziele "O gniewie Bożym" ("De Ira Dei").
-[David Hume](https://en.wikipedia.org/wiki/David_Hume) w swoim dziele "Dialogues concerning Natural Religion" (1779) również odnosi się do Epikura jako do twórcy tego problemu oraz dodaje, że dalej nie ma na niego odpowiedzi.
+Nie jesteśmy pewni kto jest oryginalnym autorem tego problemu, natomiast [Laktancjusz](https://pl.wikipedia.org/wiki/Laktancjusz) (250 - 325 n.e.) przypisuje ten problem [Epikurowi](https://pl.wikipedia.org/wiki/Epikur) w swoim dziele "O gniewie Bożym" ("De Ira Dei"). [David Hume](https://en.wikipedia.org/wiki/David_Hume) w "Dialogues concerning Natural Religion" (1779) również odnosi się do Epikura jako do twórcy tego problemu natomiast dodaje, że dalej nie ma na niego odpowiedzi.
+
 Problem ten można nazwać "problemem zła" i zajmuje się nim [teodycea](https://pl.wikipedia.org/wiki/Teodycea), czyli cała gałąź teologii skupiająca się na tym.
 
 ## Schemat

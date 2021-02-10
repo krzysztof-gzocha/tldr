@@ -3,7 +3,7 @@ title: "Jak nie dać się zhakować?"
 slug: "jak-nie-dac-sie-zhakowac"
 date: 2021-02-04T14:22:44+01:00
 draft: false
-tags: [informatyka, cyberbezpieczeństwo, szyfrowanie, "manager haseł", LastPass]
+tags: [informatyka, "manager haseł", LastPass]
 ---
 
 Jak nie dać się zhackować? Jak przechowywać swoje hasła?<!--more-->
@@ -41,7 +41,7 @@ Obrazowo rzecz ujmując: **gdyby zastosować AES 256-bit z odpowiednio skompliko
 *Film odnosi się do [SHA-2](https://en.wikipedia.org/wiki/SHA-2) 265-bit, natomiast szyfrowanie AES 256-bit będzie conajmniej równie trudne do złamania. Jest opcja polskich napisów.*
 
 # Popularne managery haseł
-**[LastPass](https://lastpass.com/)** - osobiście go polecam dla każdego. Dostępny jako plugin do przeglądarek oraz jako aplikacja na Android'a oraz iOS'a. Dodatkowo ma [LastPass Authenticator'a](https://play.google.com/store/apps/details?id=com.lastpass.authenticator&hl=en_US&gl=US), który działa jako drugi składnik autoryzacyjny i który zapisuje parametry niezbędne do generowania jednorazowych haseł w samym LastPass'ie, więc mamy wszystko zapisane w jednej aplikacji. Zaszyfrowane hasła są trzymane w chmurze automatycznie, więc nie musimy się przejmować synchronizacją. Jest w większości darmowy, opcja płatna jest dopiero gdy chcemy wykorzystać do niego klucz sprzętowy.<!--Napisałem też artykuł jak zacząć z niego korzystać: **[link](< ref "manager-hasel" >)**.-->
+**[LastPass](https://lastpass.com/)** - osobiście go polecam dla każdego. Dostępny jako plugin do przeglądarek oraz jako aplikacja na Android'a oraz iOS'a. Dodatkowo ma [LastPass Authenticator'a](https://play.google.com/store/apps/details?id=com.lastpass.authenticator&hl=en_US&gl=US), który działa jako drugi składnik autoryzacyjny i który zapisuje parametry niezbędne do generowania jednorazowych haseł w samym LastPass'ie, więc mamy wszystko zapisane w jednej aplikacji. Zaszyfrowane hasła są trzymane w chmurze automatycznie, więc nie musimy się przejmować synchronizacją. Jest w większości darmowy, opcja płatna jest dopiero gdy chcemy wykorzystać do niego klucz sprzętowy. Napisałem też artykuł jak zacząć z niego korzystać: **[link]({{< ref "manager-hasel" >}})**.
 
 [KeePassXC](https://keepassxc.org/) - otwarto-źródłowy manager haseł, który przechowuje zaszyfrowane hasło jako plik na komputerze/telefonie i sami musimy zadbać o jego odpowiednią synchronizację na innych urządzeniach. Działa kompletnie offline i nie wymaga żadnego połączenia z internetem. Najwiekszą zaletą jest to, że jest całkowicie darmowy.
 
@@ -63,4 +63,4 @@ Obrazowo rzecz ujmując: **gdyby zastosować AES 256-bit z odpowiednio skompliko
 - Najbardziej istotne pliki trzymam w zaszyfrowanej postaci korzystając z **[VeraCrypt](https://www.veracrypt.fr/code/VeraCrypt/)**, który po podaniu hasła tworzy w komputerze osobny dysk z zawartością moich plików i mogę z niego korzystać do woli. Każda zmiana na tym dysku będzie z automatu zaszyfrowana. Takie rozwiązanie jest łatwe i intuicyjne, a przy tym VeraCrypt proponuje bardzo wysoki standard szyfrowania, a nawet "partycję ukrytą" ;) 
 
 # Jak zacząć korzystać z managera haseł?
-W osobnym artykule opiszę niedługo jak zainstalować oraz korzystać z LastPass - managera haseł z którego sam korzystam. <!--Artykuł jest dostępny tutaj: **[link](< ref "manager-hasel" >)**-->
+W osobnym artykule opiszę niedługo jak zainstalować oraz korzystać z LastPass - managera haseł z którego sam korzystam. Artykuł jest dostępny tutaj: **[link]({{< ref "manager-hasel" >}})**

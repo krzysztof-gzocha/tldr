@@ -30,6 +30,7 @@
     four = "{{.Count}} minuty"
     other = "{{.Count}} minut"
     many = "{{.Count}} minut"
+    few = "{{.Count}} minut"
 
 [archivesTotalPages]
     other = "Postów w sumie: "
