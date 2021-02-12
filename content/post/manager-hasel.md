@@ -66,7 +66,7 @@ Powinniśmy teraz zadbać, aby wszystkie nasze hasła były wygenerowane w bezpi
 Na powyższym zdjęciu widzimy jak LastPass generuje hasło o długości 37-miu znaków, składające się z zarówno wielkich oraz małych liter, jak również z liczb oraz symboli.
 
 ## Jaka długość hasła jest odpowiednia?
-Zalecana długość hasła to 16 znaków [[1](https://www.security.org/how-secure-is-my-password/)][[2](https://www.lmgsecurity.com/how-long-should-your-password-be-a-technical-guide-to-a-safe-password-length-policy/)]. Natomiast osobiscie stosuje hasła o długości nawet 30-stu czy 40-stu znaków, no bo to dla mnie i tak bez różnicy skoro LastPass je pamięta za mnie.
+Zalecana długość hasła to 16 znaków [[1](https://www.security.org/how-secure-is-my-password/)][[2](https://www.lmgsecurity.com/how-long-should-your-password-be-a-technical-guide-to-a-safe-password-length-policy/)]. Natomiast osobiscie stosuję hasła o długości nawet 30-stu czy 40-stu znaków, no bo to dla mnie i tak bez różnicy skoro LastPass je pamięta za mnie.
 
 Warto zwrócić uwage, że niektóre hasła będziemy musieli czasami (dość rzadko) **przepisać ręcznie**, np. przy logowaniu się do Google po kupnie nowego telefonu z Androidem.
 
