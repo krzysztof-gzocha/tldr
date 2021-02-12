@@ -1,5 +1,5 @@
 ---
-title: "Bilbioteka Babel"
+title: "Biblioteka Babel"
 date: 2021-02-12T11:25:56+01:00
 draft: false
 tags: [babel, algorytm, ciekawostka]
