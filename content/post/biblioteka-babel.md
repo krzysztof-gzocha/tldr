@@ -15,36 +15,36 @@ Opowieść mówi o sferycznym wszechświecie nazywanym Biblioteką, który skła
 
 {{< img-nz "Biblioteka Babel: Galeria" "babel.galeria.png" >}}
 
-Dodatkowo każda książka ma litery na grzbiecie, ale nie definiują one zawartości książki, a raczej są czymś w rodzaju "adresu" danej książki. Czymś co identyfikuje jej miejsce w bibliotece. Dana książka może się znajdować tylko na jednym, wyznaczonym dla siebie miejscu.
-Cała zawartość każdej z książek skłąda się z 25 znaków: 22 małych liter alfabetu, odstępu ("spacji"), kropki oraz przecinka.
+Dodatkowo każda książka ma litery na grzbiecie, ale nie definiują one zawartości książki, a raczej są czymś w rodzaju "adresu" danej książki. Czymś, co identyfikuje jej miejsce w bibliotece. Dana książka może się znajdować tylko na jednym, wyznaczonym dla siebie miejscu.
+Cała zawartość każdej z książek składa się z 25 znaków: 22 małych liter alfabetu, odstępu ("spacji"), kropki oraz przecinka.
 
-> Na każdy sensowny wers prostego stwierdzenia przypadają tysiące bezsensownych kakofonii, słownego bałaganu oraz niespójności. [..] Ludzie sprzeczali się w jakim języku są napisane. Portugalski? Yiidish? [..] Litewski? Arabski?
+> Na każdy sensowny wers prostego stwierdzenia przypadają tysiące bezsensownych kakofonii, słownego bałaganu oraz niespójności. [..] Ludzie sprzeczali się, w jakim języku są napisane. Portugalski? Yiddish? [..] Litewski? Arabski?
 
 W całej bibliotece nie ma dwóch identycznych książek, ale istnieją całe tysiące różniące się jedynie kropką lub przecinkiem.
 
 {{< img-nz "Biblioteka Babel: Galeria" "babel.strona.png" >}}
 
-To oznacza, że "biblioteka" jest w 100% kompletna, czyli zawiera wszystkie możliwe wariacje 25 znaków jakie zmieszczą się na każdą ze stron, a to niesie ze sobą całkiem ciekawe konsekwencje. W słowach autora: (Tłumaczone na angielski przez James E. Irby)
+To oznacza, że "biblioteka" jest w 100% kompletna, czyli zawiera wszystkie możliwe wariacje 25 znaków, jakie zmieszczą się na każdą ze stron, a to niesie ze sobą całkiem ciekawe konsekwencje. W słowach autora: (Tłumaczone na angielski przez James E. Irby)
 > [..] the Library is total and that its shelves register all the possible combinations of the twenty-odd orthographical symbols (a number which, though extremely vast, is not infinite): Everything: the minutely detailed history of the future, the archangels’ autobiographies, the faithful catalogues of the Library, thousands and thousands of false catalogues, the demonstration of the fallacy of those catalogues, the demonstration of the fallacy of the true catalogue, the Gnostic gospel of Basilides, the commentary on that gospel, the commentary on the commentary on that gospel, the true story of your death, the translation of every book in all languages, the interpolations of every book in all books, the treatise that Bede could have written (and did not) about the mythology of the Saxons, the lost works of Tacitus.
 
 Co można luźno przetłumaczyć na polski:
-> Biblioteka jest kompletna i zawiera wszystkie możliwe kombinacje znaków, a więc zawiera całą historię świata zapisaną co do minuty, tysiące fałszywych katalogów, dowód błędu tych katalogów, "Gnostyczną ewangelię Bazylidesa", komentarz do tej ewangelii, komentarz do komentarza do tej ewenagelii, prawdziwą historię Twojej śmierci, tłumaczenie każdej książki na każdy język, interpretacje każdej książki, utracone prace Tacyta.
+> Biblioteka jest kompletna i zawiera wszystkie możliwe kombinacje znaków, a więc zawiera całą historię świata zapisaną co do minuty, tysiące fałszywych katalogów, dowód błędu tych katalogów, "Gnostyczną ewangelię Bazylidesa", komentarz do tej ewangelii, komentarz do komentarza do tej ewangelii, prawdziwą historię Twojej śmierci, tłumaczenie każdej książki na każdy język, interpretacje każdej książki, utracone prace Tacyta.
 
-Wyobraź sobie bibliotekę w której jest dosłownie wszystko, cała historia Twojego życia, zapisany los ludzi, ziemi i kosmosu. Twoja pierwsza miłość, opis nauczyciela z matematyki, odpowiedź na pytanie o sens życia - na prawdę wszystko. 
+Wyobraź sobie bibliotekę, w której jest dosłownie wszystko, cała historia Twojego życia, zapisany los ludzi, ziemi i kosmosu. Twoja pierwsza miłość, opis nauczyciela z matematyki, odpowiedź na pytanie o sens życia - na prawdę wszystko. 
 
-> Odkąd poznałeś alfabet cała wiedza wszechświata jest tylko remixem tego co już znasz. (Autor nieznany)
+> Odkąd poznałeś alfabet, cała wiedza wszechświata jest tylko remixem tego co już znasz. (Autor nieznany)
 
 # Czy to na pewno fantasy?
 
-Stworzenie tak opisanej biblioteki w fizycznym świecie jest praktycznie niewykonalne.. a w świecie cyfrowym?
+Stworzenie tak opisanej biblioteki w fizycznym świecie jest praktycznie niewykonalne... a w świecie cyfrowym?
 
 Istnieją [algorytmy](https://stackoverflow.com/questions/127704/algorithm-to-return-all-combinations-of-k-elements-from-n/127856#127856), które są w stanie wygenerować wszystkie kombinacje N-elementowego zbioru. Natomiast, wygenerowanie takiego zbioru i przechowanie go byłoby trudne nawet dla nowoczesnych technologii.
 
 Możemy natomiast stwierdzić, że użycie algorytmu X do generowania takich kombinacji spowoduje, że na stronie Y w książce Z będzie tekst "MCV" i w skrócie taką właśnie wiedzę wykorzystał [Jonathan Basile](https://jonathanbasile.info) tworząc współczesną bibliotekę Babel. Według autora jego biblioteka aktualnie obejmuje około 10 do potęgi 4677 książek.
 
-Stworzył on stronę internetową dzięki której możemy się przejść przez wirtualną bibliotekę, wejść do odpowiedniej galerii, wybrać odpowiednią ścianę, potem półkę, potem książkę i w końcu stronę, a wtedy strona pokaże Nam całą zawartość takiej strony.
+Stworzył on stronę internetową, dzięki której możemy się przejść przez wirtualną bibliotekę, wejść do odpowiedniej galerii, wybrać odpowiednią ścianę, potem półkę, potem książkę i w końcu stronę, a wtedy strona pokaże Nam całą zawartość takiej strony.
 
-Oczywiście poruszanie się wśród tak olbrzymiej ilości książek jest niepraktyczne, więc autor zaimplementował coś o czym Jorge Borges nie pomyślał, czyli **automatyczne szukanie strony na której znaduje się zadany przez gościa tekst**. A to znaczy, że jeśli chcesz to możesz znaleźć książkę i konkretną stronę, która mówi o tym jak cudowne jest Twoje dziecko, jak straszny jest Twój szef, jaka była pogoda, gdy się urodziłeś czy absolutnie cokolwiek innego składającego się z liter, przecinka i kropki o długości do 3260 znaków. Formularz wyszukiwania zadanego tekstu w bibliotece Babel jest dostępny pod tym adresem: https://libraryofbabel.info/search.html.
+Oczywiście poruszanie się wśród tak olbrzymiej ilości książek jest niepraktyczne, więc autor zaimplementował coś, o czym Jorge Borges nie pomyślał, czyli **automatyczne szukanie strony, na której znajduje się zadany przez gościa tekst**. A to znaczy, że jeśli chcesz, to możesz znaleźć książkę i konkretną stronę, która mówi o tym jak cudowne jest Twoje dziecko, jak straszny jest Twój szef, jaka była pogoda, gdy się urodziłeś czy absolutnie cokolwiek innego składającego się z liter, przecinka i kropki o długości do 3260 znaków. Formularz wyszukiwania zadanego tekstu w bibliotece Babel jest dostępny pod tym adresem: https://libraryofbabel.info/search.html.
 
 Możemy poruszać się również pomiędzy konkretnymi heksagonami i samemu szukać informacji.
 Służy do tego formularz na stronie: https://libraryofbabel.info/browse.cgi.
@@ -60,5 +60,5 @@ Czy więc opowieść Jorge'a Borges'a można wciąż uznać w pełni za fantasy?
 
 ## Linki
 - Tłumaczenie opowieści na angielski: https://jonathanbasile.info/libraryofbabel.html
-- Tłumaczenie w wersji PDF'a ściągniete z wyżej wymienionej strony: [Biblioteka Babel.pdf](../../babel.pdf)
+- Tłumaczenie w wersji PDF'a ściągnięte z wyżej wymienionej strony: [Biblioteka Babel.pdf](../../babel.pdf)
 - Cyfrowe odtworzenie biblioteki Babel: https://libraryofbabel.info

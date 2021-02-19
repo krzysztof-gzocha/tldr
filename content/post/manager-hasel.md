@@ -8,6 +8,8 @@ tags: [informatyka, "manager haseł", LastPass]
 
 Jak założyć konto, zainstalować oraz korzystać z polecanego przeze mnie managera haseł - LastPass. W artykule **[jak nie dać się zhakować]({{< ref "jak-nie-dac-sie-zhackowac" >}})** opisałem zalety korzystania z managera haseł oraz dlaczego uważam, że są one bezpieczne i zalecane. W tym artykule pokażę w miarę krótko jak zacząć korzystać z jednego z nich - LastPass.<!--more-->
 
+*Aktualizacja*: Od [16-tego marca 2021](https://blog.lastpass.com/2021/02/changes-to-lastpass-free/) LastPass w darmowej wersji przestanie wspierać synchronizację haseł między różnymi typami urządzeń (PC, Telefon). Można oczywiście zapłacić i korzystać z LastPass'a Premium albo skorzystać z innego managera oferującego darmową synchronizacją haseł między urządzeniami jak na przykład [otwarto-źródłowy](https://github.com/bitwarden) [Bitwarden](https://bitwarden.com/), w którym dodatkowo możemy nawet sami zarządzać serwerem do przechowywania własnych haseł.
+
 # Wymagania
 - W miarę aktualna przeglądarka. Najlepiej *[Mozilla Firefox](https://www.mozilla.org/pl/firefox/new/)*, *[Opera](https://www.opera.com/pl)*, *[Brave](https://brave.com/)* lub *[Google Chrome](https://www.google.com/chrome/index.html)*.
 - Opcjonalnie telefon z systemem: *Android* lub *iOS*

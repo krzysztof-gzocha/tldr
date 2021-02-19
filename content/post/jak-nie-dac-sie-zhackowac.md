@@ -43,6 +43,10 @@ Obrazowo rzecz ujmując: **gdyby zastosować AES 256-bit z odpowiednio skompliko
 # Popularne managery haseł
 **[LastPass](https://lastpass.com/)** - osobiście go polecam dla każdego. Dostępny jako plugin do przeglądarek oraz jako aplikacja na Android'a oraz iOS'a. Dodatkowo ma [LastPass Authenticator'a](https://play.google.com/store/apps/details?id=com.lastpass.authenticator&hl=en_US&gl=US), który działa jako drugi składnik autoryzacyjny i który zapisuje parametry niezbędne do generowania jednorazowych haseł w samym LastPass'ie, więc mamy wszystko zapisane w jednej aplikacji. Zaszyfrowane hasła są trzymane w chmurze automatycznie, więc nie musimy się przejmować synchronizacją. Jest w większości darmowy, opcja płatna jest dopiero gdy chcemy wykorzystać do niego klucz sprzętowy. Napisałem też artykuł jak zacząć z niego korzystać: **[link]({{< ref "manager-hasel" >}})**.
 
+*Aktualizacja*: Od [16-tego marca 2021](https://blog.lastpass.com/2021/02/changes-to-lastpass-free/) LastPass w darmowej wersji przestanie wspierać synchronizację haseł między różnymi typami urządzeń (PC, Telefon). Można oczywiście zapłacić i korzystać z LastPass'a Premium, lub wybrać kolejny manager na liście.
+
+**[Bitwarden](https://bitwarden.com/)** - równie dobry jak LastPass, lecz z dodatkową opcją samodzielnej instalacji serwera synchronizacji haseł, a więc sami możemy mieć kontrolę nie tylko nad klientem, lecz również serwerem przechowującym zaszyfrowane hasła. Ma możliwość synchronizacji haseł między wieloma urządzeniami, a jego kod jest [otwarty](https://github.com/bitwarden), więc każdy może go podejrzeć i sprawdzić czy na pewno jest taki dobry.
+
 [KeePassXC](https://keepassxc.org/) - otwarto-źródłowy manager haseł, który przechowuje zaszyfrowane hasło jako plik na komputerze/telefonie i sami musimy zadbać o jego odpowiednią synchronizację na innych urządzeniach. Działa kompletnie offline i nie wymaga żadnego połączenia z internetem. Najwiekszą zaletą jest to, że jest całkowicie darmowy.
 
 [Dashlane](https://www.dashlane.com/) - jest darmowy tylko do 50 haseł i jednego urządzenia.
